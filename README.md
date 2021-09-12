@@ -2,7 +2,7 @@
 <h2>About me</h2>
 <ul>
 <li>👋 Hi, I’m Pedro Vasconcelos, a professor from the computer engineering department of the Instituto Superior de Engenharia do Porto https://isep.ipp.pt </li>
-<li>👀 I’m interested in teaching my students...</li>
+<li>👀 I’m interested in teaching Project Management and Database Development to my students...</li>
 <li>🌱 I’m currently learning cryptocurrencies blockchain technology...</li>
 <li>📫 How to reach me? If you are my student from ISEP, my e-mail is vas@isep.ipp.pt</li>
 </ul>
