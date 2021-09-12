@@ -6,7 +6,6 @@
 <li>🌱 I’m currently learning cryptocurrencies blockchain technology...</li>
 <li>📫 How to reach me? If you are my student from ISEP, my e-mail is vas@isep.ipp.pt</li>
 </ul>
-<br />
 <h2>Social Networks</h2>
 <ul>
   <li>🎬Youtube Channel: https://www.youtube.com/c/tech4upt</li>
